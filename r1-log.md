@@ -71,5 +71,6 @@ Read chapter 10 of Java 8 Prático and practiced its exercises (Date and Time AP
 Worked on the final project from the book Java 8 Prático.
 
 ### R1D23
+Finished the final project from the book Java 8 Prático and organized my git repositories.
 
 
