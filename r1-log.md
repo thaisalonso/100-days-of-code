@@ -73,4 +73,58 @@ Worked on the final project from the book Java 8 Prático.
 ### R1D23
 Finished the final project from the book Java 8 Prático and organized my git repositories.
 
+### R1D24
+Finished reading Java 8 Prático and started Chapter 2 of [MongoDB for Java Developers](https://university.mongodb.com/courses/M101J/about) course in which I practiced CRUD operators.
+
+### R1D25
+Finished Chapter 2 of [MongoDB Basics](https://university.mongodb.com/courses/M001/about) course.
+
+### R1D26
+Continued Chapter 2 of [MongoDB for Java Developers](https://university.mongodb.com/courses/M101J/about) course, learning MongoDB's Java Driver.
+
+### R1D27
+MongoDB +Java exercises.
+
+### R1D28
+Finished homework of [MongoDB for Java Developers](https://university.mongodb.com/courses/M101J/about) course (Chapter 2) and took some quizzes on Java at https://devgym.oracle.com. 
+
+### R1D29
+Started Chapter 3 of [MongoDB Basics](https://university.mongodb.com/courses/M001/about) course in which I practiced the query language operators.
+
+### R1D30
+Worked on the final exam of[MongoDB Basics](https://university.mongodb.com/courses/M001/about) course.
+
+### R1D31
+Practiced MongoDB query language.
+
+### R1D32
+Worked on Chapter 3 of [MongoDB for Java Developers](https://university.mongodb.com/courses/M101J/about) course.
+
+### R1D33
+Worked on [MongoDB for Java Developers](https://university.mongodb.com/courses/M101J/about) homework.
+
+### R1D34
+Started reading Domain-Driven Design Quickly.
+
+### R1D35
+Read some chapters of Domain-Driven Design Quickly.
+
+### R1D36
+Started Chapter 3 of [MongoDB for Java Developers](https://university.mongodb.com/courses/M101J/about) course and continued reading about DDD.
+
+### R1D37
+Worked on Chapter 4 of [MongoDB for Java Developers](https://university.mongodb.com/courses/M101J/about) course.
+
+### R1D38
+Finished the lectures of Chapter 4 of [MongoDB for Java Developers](https://university.mongodb.com/courses/M101J/about) course.
+
+### R1D39
+Just read a bit about Domain-Driven Design
+
+### R1D40
+ I just read a bit about Domain-Driven Design and listened to a podcast about Kotlin.
+ 
+ ### R1D41
+ Worked on Chapter 4 homework of [MongoDB for Java Developers](https://university.mongodb.com/courses/M101J/about) course.
+
 
